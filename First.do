@@ -63,7 +63,6 @@ drop if spe>0 & spe<100
 fre spe
 
 *Generate a variable for the two trade of our interest: Cgil and Cobas
-
 gen sin=2
 
 replace sin = 0 if actor_r1 == 8 | actor2_r1 == 8 | actor3_r1 == 8 | ///
