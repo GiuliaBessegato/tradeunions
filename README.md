@@ -19,3 +19,7 @@ The dataset includes thirty eight semi-structured interviews conducted between J
 
 ### Why the project is useful
 This project reports the different approaches that a trade union could have in terms of management of work in companies, negotiation for workers’ rights, mediator between workers and employers. 
+---
+#### Authors
+Bessegato Giulia
+Allegri Stefano
